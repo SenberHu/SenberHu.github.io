@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /secret/
+Disallow: /secret
+
+SITEMAP: https://senberhu.github.io/sitemap.xml
